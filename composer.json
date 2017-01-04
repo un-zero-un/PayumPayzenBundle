@@ -20,7 +20,7 @@
     ],
     "require" : {
         "php" : ">=5.4",
-        "symfony/framework-bundle" : "~2.3",
+        "symfony/framework-bundle" : "^3.0",
         "payum/payum-bundle": "~2.1",
         "ekyna/payum-payzen": "~1.3"
     },
